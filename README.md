@@ -8,7 +8,6 @@ El objetivo es aplicar los conocimientos sobre **componentes de Astro**, **maque
 ## 📖 Descripción general
 
 ### 🧩 Vista previa del proyecto
-Agrega aquí una **captura de pantalla** del resultado final de tu landing page.  
 
 ![Vista previa del proyecto](./captura.png)
 
@@ -16,15 +15,14 @@ Agrega aquí una **captura de pantalla** del resultado final de tu landing page.
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
+- **Repositorio en GitHub:** [URL del repositorio](https://github.com/AngelGab1012/qr-code-component_programacionweb)
+- **Sitio desplegado (opcional):** [Vercel]((https://qr-code-componentprogramacionweb.vercel.app/))
 
 ---
 
 ## 🧠 Proceso de desarrollo
 
 ### 🛠️ Tecnologías utilizadas
-Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo:
 
 - [Astro](https://astro.build)
 - [Tailwind CSS](https://tailwindcss.com/)
@@ -35,8 +33,6 @@ Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo
 ---
 
 ### 💡 Lo que aprendí
-En esta sección describe brevemente **qué aprendiste o reforzaste** al desarrollar este proyecto.  
-Puedes incluir fragmentos de código o mencionar conceptos nuevos que aplicaste.
 
 En este proyecto aprendí a estructurar de mejor manera proyectos utilizando el framework **Astro,** reforcé mis conocimientos en Tailwind.
 
@@ -52,8 +48,6 @@ Fragmento de Código:
 
 ### 🚀 Áreas de mejora
 
-Menciona aquí los aspectos que podrías mejorar o seguir practicando en futuros proyectos.
-
 - Mejorar el manejo del responsive en pantallas pequeñas.  
 - Mejorar el uso de Tailwind.  
 - Optimizar la estructura del proyecto y el uso de componentes.  
@@ -61,8 +55,6 @@ Menciona aquí los aspectos que podrías mejorar o seguir practicando en futuros
 ---
 
 ### 📚 Recursos útiles
-
-Incluye los enlaces, documentación o tutoriales que te ayudaron a completar este proyecto.
 
 - [Documentación de Astro](https://docs.astro.build)  
 - [Guía oficial de Tailwind CSS](https://tailwindcss.com/docs)  
@@ -81,9 +73,6 @@ Incluye los enlaces, documentación o tutoriales que te ayudaron a completar est
 ---
 
 ### ✨ Reflexión final
-
-Comparte brevemente tu experiencia durante el desarrollo del proyecto.  
-Puedes responder a preguntas como:
 
 - ¿Qué fue lo más fácil de realizar?  
 Lo más fácil de realizar fue la estructuración del proyecto (layout, componentes, index).
