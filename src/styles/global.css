@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "Outfit";
+    src: url(../layouts/Layout.astro);
+}
+
+body {
+    font-family: "Outfit";
+    margin: 0;
+    padding: 0;
+}
