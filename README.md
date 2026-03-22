@@ -16,7 +16,7 @@ El objetivo es aplicar los conocimientos sobre **componentes de Astro**, **maque
 ### 🔗 Enlaces del proyecto
 
 - **Repositorio en GitHub:** [URL del repositorio](https://github.com/AngelGab1012/qr-code-component_programacionweb)
-- **Sitio desplegado (opcional):** [Vercel]((https://qr-code-componentprogramacionweb.vercel.app/))
+- **Sitio desplegado (opcional):** [Vercel](https://qr-code-componentprogramacionweb.vercel.app/)
 
 ---
 
